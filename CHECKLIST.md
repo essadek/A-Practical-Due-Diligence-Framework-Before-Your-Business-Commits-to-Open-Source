@@ -20,4 +20,4 @@ Use this checklist for an initial "vibe check" of any open-source project.
 ---
 **Need to turn this into a formal Business Case?**
 The Professional Matrix weights these criteria based on risk impact to give you a definitive **Enterprise Readiness Score**. 
-[Get the Weighted Matrix →](https://groundblue.gumroad.com/l/nlzhl)
+[Get the Weighted Matrix →](https://groundblue.gumroad.com/l/nlzhlx)
