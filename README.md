@@ -15,6 +15,7 @@ Security Vulnerabilities: Lack of active patching and OpenSSF alignment.
 Business Disruption: Zero support when mission-critical systems fail.
 
 🛠️ The Solution
+
 This framework provides a structured methodology to evaluate OSS sustainability based on Contributor Dedication, Community Activity, and End-User Profiles.
 
 Key Evaluation Criteria:
@@ -32,6 +33,7 @@ The comprehensive Open-Source Due Diligence Toolkit includes the professional Ex
 👉 Get the Full Toolkit on Gumroad | Find it on Flevy
 
 🤝 Community & Standards
+
 This framework is designed to align with:
 
 CHAOSS Metrics
