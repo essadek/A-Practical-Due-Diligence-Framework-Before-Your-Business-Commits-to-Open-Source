@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this framework in your IT governance or risk assessment reports, please cite it as follows."
+authors:
+- family-names: ""
+  given-names: "Groundblue"
+title: "The Open-Source Due Diligence Framework"
+version: 1.0.0
+date-released: 2026-04-11
+url: "https://github.com/yourusername/oss-due-diligence-framework"
+repository-code: "https://github.com/yourusername/oss-due-diligence-framework"
+keywords:
+  - "cybersecurity"
+  - "it-governance"
+  - "open-source-security"
+  - "risk-assessment"
+  - "openssf"
+  - "chaoss"
+license: "CC-BY-4.0"
+abstract: >-
+  A systematic, evidence-based methodology for evaluating the sustainability 
+  and enterprise readiness of open-source software projects.
