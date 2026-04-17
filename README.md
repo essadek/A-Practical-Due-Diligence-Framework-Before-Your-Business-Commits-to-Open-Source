@@ -37,8 +37,13 @@ While this repo provides the criteria, the **Full Professional Toolkit** provide
 * ✅ **Advanced AI Prompt Library:** Ready-to-paste prompts for Claude/GPT to automate 90% of the research.
 * ✅ **Executive Case Studies:** Real-world examples (ERP, GRC, and Dev Frameworks) already scored.
 
-👉 **[Download the Full Professional Toolkit here](https://flevy.com/browse/marketplace/open-source-software-due-diligence-framework-11405)**
-    or **[here](https://groundblue.gumroad.com/l/nlzhlx)**
+👉 **[Download the Full Professional Toolkit on Flevy](https://flevy.com/browse/marketplace/open-source-software-due-diligence-framework-11405)**
+    
+👉   **[Download the Full Professional Toolkit on Eloquens](https://www.eloquens.com/tool/zKdBun9a/strategy/due-diligence-templates/a-practical-due-diligence-framework-before-your-business-commits-to-open-source)**
+
+👉   **[Download the Full Professional Toolkit on Gumroad](https://groundblue.gumroad.com/l/nlzhlx)** 
+    
+
 
 
 ---
